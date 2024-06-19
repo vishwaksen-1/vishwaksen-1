@@ -56,7 +56,7 @@
 <br>
 
 ### 🎧 What I'm Listening to! 🎧
-<a href="https://github.com/vishwaksen-1">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jeqmork36hfo4zhbcw4xnfchjm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/vishwaksen-1)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jeqmork36hfo4zhbcw4xnfchjm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br>
 </div>
 
