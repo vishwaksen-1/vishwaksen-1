@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **PINNs, Trading**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vishwaksen-1/](https://github.com/vishwaksen-1/)
+- 👨‍💻 All of my projects are available at [vishwaksen-1](https://github.com/vishwaksen-1/)
 
-- 📝 I often write articles on [https://medium.com/@newtonlucky35](https://medium.com/@newtonlucky35)
+- 📝 I often write articles on [My Medium](https://medium.com/@newtonlucky35)
 
 - 💬 Ask me about **All things electronics**
 
-- 📫 How to reach me **vishwaksen.rdy@gmail.com**
+- 📫 How to reach me **vishwaksen[dot]rdy[at]gmail[dot]com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ks8UL1MJEBF-a6_kdTHHZAMRcoWc97d3/view?usp=sharing](https://drive.google.com/file/d/1Ks8UL1MJEBF-a6_kdTHHZAMRcoWc97d3/view?usp=sharing)
+- 📄 Know about my experiences [my CV](https://drive.google.com/file/d/1Ks8UL1MJEBF-a6_kdTHHZAMRcoWc97d3/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
