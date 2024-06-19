@@ -40,13 +40,13 @@
 <br>
   
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwaksen-1&theme=dark&show_icons=true"/>
+<a href="https://github.com/vishwaksen-1"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwaksen-1&theme=dark&show_icons=true"/>
   </div>
 <br>
 
 <div align="center">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwaksen-1&bg_color=0e0e0e&hide_border=true"/>
+<a href="https://github.com/vishwaksen-1"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwaksen-1&bg_color=0e0e0e&hide_border=true"/>
 <br>
 </div>
 <br>
