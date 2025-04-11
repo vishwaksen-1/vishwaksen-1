@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwaksen-1&label=Profile%20views&color=0e75b6&style=flat" alt="vishwaksen-1" /> </p>
 
-- 🔭 I’m recently worked on [Chess Bot](https://github.com/vishwaksen-1/Chess)
+- 🔭 I’ve last worked on [Linux Utilities for Beginners](https://github.com/vishwaksen-1/Linux-Rookie-Utilities)
 
-- 🌱 I’m currently learning **RISC-V, RF & MW Engineering**
+- 🌱 I’m currently learning **Linux, RISC-V, RF & MW Engineering**
 
 - 👨‍💻 All of my projects are available at [vishwaksen-1](https://github.com/vishwaksen-1/)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vishwaksen[dot]rdy[at]gmail[dot]com**
 
-- 📄 Know about my experiences [my CV](https://drive.google.com/file/d/1Di6kTho5aGoKYBAOPcfTmXP5X1ozxoYw/view?usp=drive_link)
+- 📄 Know about my experiences [my CV](https://drive.google.com/drive/folders/17pdyQL4F718wHA_RdD2j63yZriMQcog5?usp=drive_link) or [my LinkedIn](https://www.linkedin.com/in/vishwaksen-/)
 
 - ⚡ Fun fact **I think I am funny**
 
