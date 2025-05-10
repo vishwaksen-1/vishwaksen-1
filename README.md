@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [vishwaksen-1](https://github.com/vishwaksen-1/)
 
-<!-- - 📝 I often write articles on [My Medium](https://medium.com/@newtonlucky35) -->
+- 📝 I started writing articles on [Dev.to](https://dev.to/vishwaksen1) 
 
 - 💬 Ask me about **All things electronics**
 
