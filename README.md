@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwaksen-1&label=Profile%20views&color=0e75b6&style=flat" alt="vishwaksen-1" /> </p>
 
-- 🔭 I’ve last worked on [Linux Utilities for Beginners](https://github.com/vishwaksen-1/Linux-Rookie-Utilities)
+- 🔭 I’ve last worked on [Audio Steganography](https://github.com/vishwaksen-1/audioStegano)
 
 - 🌱 I’m currently learning **Linux, RISC-V, RF & MW Engineering**
 
@@ -41,14 +41,14 @@
 
 <div align="center">
 
-- **WeChall**: [vishwakse_n](https://www.wechall.net/profile/vishwakse_n)  
-    ![WeChall Rank](https://img.shields.io/badge/Rank-Top%206.3%25-blue?style=flat)
+- **WeChall**:    
+[ ![WeChall Rank](https://img.shields.io/badge/Rank-Top%206.3%25-blue?style=flat)](https://www.wechall.net/profile/vishwakse_n)
 
-- **CodeWars**: [vishwaksen-1](https://www.codewars.com/users/vishwaksen-1)  
-    ![CodeWars Rating](https://www.codewars.com/users/vishwaksen-1/badges/large)
+- **CodeWars**:   
+[ ![CodeWars Rating](https://www.codewars.com/users/vishwaksen-1/badges/large)](https://www.codewars.com/users/vishwaksen-1)
 
-- **LeetCode**: [vishwaksen-1](https://leetcode.com/vishwaksen-1)  
-    ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=vishwaksen-1&theme=dark)
+- **LeetCode**:   
+[ ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=vishwaksen-1&theme=dark)](https://leetcode.com/vishwaksen-1)
 
 <!-- - **HackerRank**: [newtonlucky35](https://www.hackerrank.com/newtonlucky35)  
     ![HackerRank Badge](https://img.shields.io/badge/-5%20stars-brightgreen?style=flat&logo=hackerrank) -->
