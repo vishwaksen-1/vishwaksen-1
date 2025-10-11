@@ -42,7 +42,7 @@
 <div align="center">
 
 - **WeChall**:    
-[ ![WeChall Rank](https://img.shields.io/badge/Rank-Top%206.3%25-blue?style=flat)](https://www.wechall.net/profile/vishwakse_n)
+[ ![WeChall Rank](https://img.shields.io/badge/Rank-Top%202%25-blue?style=flat)](https://www.wechall.net/profile/vishwakse_n)
 
 - **CodeWars**:   
 [ ![CodeWars Rating](https://www.codewars.com/users/vishwaksen-1/badges/large)](https://www.codewars.com/users/vishwaksen-1)
