@@ -3,6 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwaksen-1&label=Profile%20views&color=0e75b6&style=flat" alt="vishwaksen-1" /> </p>
 
-- 🔭 I’ve last worked on [SDR](https://github.com/777arc/PySDR)
+- 🔭 I’ve last worked on [SDR](https://github.com/777arc/PySDR) and [OpenRISC](https://openrisc.io/)
 
 - 💬 Ask me about **All things electronics, All things opensource**
